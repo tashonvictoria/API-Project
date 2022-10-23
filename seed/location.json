@@ -1,0 +1,86 @@
+[  
+    {
+      "name": "STK Steakhouse Midtown NYC",
+      "address": "1114 6th Ave, New York NY 10036",
+      "city": "NYC",
+      "state":"New York",
+      "country": "United States of America",
+      "hours": { "open": "Monday - Friday :11:00am / Saturday - Sunday: 10:00am",
+                "close":"Thursday - Saturday: 12:00am / Sunday - Wednesday :11:00pm"
+                },
+      "brunch": "Saturday - Sunday :10:00am - 3:00pm",
+      "happyHourTime": "Monday - Friday: 3:00-6:30pm",
+      "reservation": true,
+      "email": "",
+      "phoneNumber": 6466242455,
+      "afterHours": false,
+      "chef": "",
+      "currency": [],
+      "language": [],
+      "international": false,
+      "restaurantID": "635071b833573d30a0b5a4d9"
+    },
+
+    {
+      "name": "STK Steakhouse Downtown NYC",
+      "address": "26 Little W 12th St, New York NY 10014",
+      "city": "NYC",
+      "state":"New York",
+      "country": "United States of America",
+      "hours":   {"open": "Monday - Friday :11:00am / Saturday - Sunday: 10:00am",
+      "close":"Thursday - Saturday: 12:00am / Sunday - Wednesday :11:00pm"
+      },
+      "brunch": true,
+      "happyHourTime": {},
+      "reservation": "",
+      "email": "",
+      "phoneNumber": 6466242444,
+      "img": "",
+      "afterHours": false,
+      "chef": "",
+      "currency": [],
+      "language": [],
+      "international": false,
+      "restaurantID": "635071b833573d30a0b5a4d9"
+    },
+
+    {
+      "name": "STK Atlanta",
+      "address": "1075 Peachtree St, NE Atlanta, GA 30309",
+      "city": "Atlanta",
+      "state":"Georgia",
+      "country": "United States of America, USA, United States",
+      "hours":{},
+      "brunch": true,
+      "happyHourTime": {},
+      "reservation": "",
+      "email": "",
+      "phoneNumber": 4047930144,
+      "afterHours": "",
+      "chef": "",
+      "currency": [],
+      "language": [],
+      "international": false,
+      "restaurantID": "635071b833573d30a0b5a4d9"
+    },
+  
+    {
+      "name": "STK",
+      "address": "",
+      "city": "",
+      "state":"California",
+      "country": "",
+      "hours": {},
+      "brunch": true,
+      "happyHourTime": {},
+      "reservation": "",
+      "email": "",
+      "phoneNumber": 4047930144,
+      "afterHours": "",
+      "chef": "",
+      "currency": [],
+      "language": [],
+      "international": false,
+      "restaurantID": "635071b833573d30a0b5a4d9"
+    }
+]
